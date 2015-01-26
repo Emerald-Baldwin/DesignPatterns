@@ -41,6 +41,7 @@ Desktop.ini
  
 ######################
 # Eclipse
+.recommenders
 ######################
  
 *.pydevproject
